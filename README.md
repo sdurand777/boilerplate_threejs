@@ -1,4 +1,10 @@
 
+
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# En repartant de ce boilerplate ne pas oublier de delete les dossiers dist et nodes_module car il y a des cache dedans ainsi que le fichier package-lock.json
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 npm init -y
 
 npm install three --save-dev
@@ -31,4 +37,7 @@ et garder root et cliquer sur save
 
 
 # pour les textures ne pas oublier de copier les fichiers images et ply dans le dossier dist cree apres npm run build
+
+
 # boilerplate_threejs
+
