@@ -5,5 +5,5 @@ export default defineConfig({
   build: {
     outDir: '../dist',  // Le dossier où les fichiers compilés seront placés après la construction
   },
-  base: '/exp_threejs/',
+  base: '/boilerplate_threejs/',
 });
